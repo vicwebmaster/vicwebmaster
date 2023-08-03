@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicwebmaster
 - 👀 I'm a Full Stack PHP Developer
-- 🌱 I’m currently learning React and React Native
+- 🌱 React, React Native, Express JS, and mongoDB
 - 💞️ I’m looking to collaborate on Projects with you
 - 📫 How to reach me? 09014292469
 
